@@ -47,13 +47,13 @@ div {
     justify-content: center;
 }
 
-    div img {
-        border: 2px solid black;
-        justify-content: center;
-        margin: 5px;
+div img {
+    border: 2px solid black;
+    justify-content: center;
+    margin: 5px;
     }
 
-@media ( max-width: 00px) {
+@media ( max-width: 600px) {
     div img {
         max-height: 150px;
         max-width: 150px;
